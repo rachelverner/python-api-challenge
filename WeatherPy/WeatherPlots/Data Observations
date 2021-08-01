@@ -1,1 +1,6 @@
 Observations from the data:
+1. It seems from the plots created, the only strong correlation was latitude and temperature. 
+2. It would be interesting to be able to analyze wind speed vs altitude-- I expected to see more of a correlation between latitude and wind speed (maybe higher winds
+  closer to the North and South poles) but looking at the data I can visualize more now how that can be an unpredicatable weather variable. 
+3. It would also be interesting to create a plot seeing if there is any correlating between higher temperatures and higher humidity,
+  so I know where not to go on vacation next year.
